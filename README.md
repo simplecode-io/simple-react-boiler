@@ -1,6 +1,6 @@
 # Simple React Boiler
 
-Essential react boiler with
+Essential react boiler
 
 - Ready for production and development
 - Minimial React boiler
@@ -25,12 +25,16 @@ Includes individual build scripts for produciton and development
 
 ## Jest
 
+- Run `npm run test` to run tests
+- Run `npm run test:watch` to run test continuously
+
 ## SASS
 
 ## Fonts
 
 - Includes support for Roboto with charsets [latin] and styles [300,700,regular] includes the formats [woff,woff2].
-  > Note: More fonts can be downloaded from here: https://google-webfonts-helper.herokuapp.com/fonts
+
+  > More fonts can be downloaded from here: https://google-webfonts-helper.herokuapp.com/fonts
 
 ## Images
 
