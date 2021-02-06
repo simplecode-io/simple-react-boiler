@@ -45,6 +45,7 @@ Includes individual build scripts for produciton and development
 ## Usage
 
 - Clone or Fork this repo
+- Install prettier globally `npm install -g prettier`
 - run `npm install` to install
 - In the project root folder create two files like so:
 

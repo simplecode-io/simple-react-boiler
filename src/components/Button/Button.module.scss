@@ -1,0 +1,8 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.button {
+  color: white;
+  background-color: $color-base;
+  height: 50px;
+}

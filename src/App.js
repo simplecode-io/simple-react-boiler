@@ -7,11 +7,10 @@ import About from "./pages/About";
 
 import "./assets/scss/_base.scss";
 
-const App = ({ title }) => (
+const App = () => (
   <Router>
     <Layout>
       <Header />
-      {title}
       <Route exact path="/" component={Home} />
       <Route path="/about" component={About} />
     </Layout>

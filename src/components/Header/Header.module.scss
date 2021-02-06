@@ -1,7 +1,11 @@
-@import "../../assets/scss/variables";
-@import "../../assets/scss/mixins";
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
 
-.header {
+.Header {
   color: white;
   background-color: $color-base;
+  height: 50px;
+}
+
+.Header___button {
 }
